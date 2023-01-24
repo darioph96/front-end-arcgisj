@@ -1,0 +1,7 @@
+{
+        "portalUsr":"francisco.lopez",
+        "portalPwd":"FJLA.sig2021",
+        "portalUrl":"https://procesosags.sigsa.info/portal/sharing/",
+        "tokenEndpoint":"rest/generateToken"
+    
+}
